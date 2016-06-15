@@ -1,7 +1,6 @@
 /**
 * @version: 2.0.8
 * @author: Dan Grossman http://www.dangrossman.info/
-* @update: Celvin Rivas http://www.vitelika.com
 * @copyright: Copyright (c) 2012-2015 Dan Grossman. All rights reserved.
 * @license: Licensed under the MIT license. See http://www.opensource.org/licenses/mit-license.php
 * @website: https://www.improvely.com/
